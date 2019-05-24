@@ -1359,6 +1359,7 @@
         <members>alloObjectUnsupported</members>
         <members>alloPaidPmtsExceedsOpp</members>
         <members>alloPaymentNotEnabled</members>
+        <members>alloPaymentOverallocatedError</members>
         <members>alloPercentExceed100</members>
         <members>alloPmtOppSingleTransaction</members>
         <members>alloRemainder</members>
@@ -1795,6 +1796,7 @@
         <members>pmtWizardToBeCreated</members>
         <members>pmtWizardWarning</members>
         <members>pmtWizardWeek</members>
+        <members>pmtWizardWriteOffNoAmount</members>
         <members>pmtWizardWriteoffDate</members>
         <members>pmtWizardWriteoffMessage</members>
         <members>pmtWizardWriteoffNoAccessMessage</members>
@@ -1842,7 +1844,6 @@
         <members>stgAddrGeneralSettingsIntro</members>
         <members>stgAddrMustChooseClass</members>
         <members>stgAddrPermissionDenied</members>
-        <members>stgAllocationLevel</members>
         <members>stgBtnBack</members>
         <members>stgBtnCancel</members>
         <members>stgBtnClearErrorLog</members>
@@ -1891,7 +1892,6 @@
         <members>stgHelpAccountModel</members>
         <members>stgHelpAlloFiscalYearRollups</members>
         <members>stgHelpAlloNDayValue</members>
-        <members>stgHelpAllocationLevel</members>
         <members>stgHelpAutoAffil</members>
         <members>stgHelpAutoRelCampaignRT</members>
         <members>stgHelpAutoRelField</members>
@@ -2028,7 +2028,6 @@
         <members>stgLabelAfflSettings</members>
         <members>stgLabelAllRecordTypes</members>
         <members>stgLabelAlloBatchProgress</members>
-        <members>stgLabelAllocationBehaviorSettings</members>
         <members>stgLabelAllocationsRollupSettings</members>
         <members>stgLabelAllocationsSettings</members>
         <members>stgLabelAreYouSure</members>
